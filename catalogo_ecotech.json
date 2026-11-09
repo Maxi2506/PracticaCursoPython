@@ -1,0 +1,14 @@
+[
+    {
+        "tipo": "PanelSolar",
+        "nombre": "EcoSolar 400W Pro",
+        "stock": 15,
+        "potencia_w": 400
+    },
+    {
+        "tipo": "PanelSolar",
+        "nombre": "NanoSolar 150W",
+        "stock": 30,
+        "potencia_w": 150
+    }
+]
